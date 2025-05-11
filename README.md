@@ -149,3 +149,11 @@ Fejlett AI tipp: vista => VISTA
 Siker: 3 próbálkozásból.
 
 ```
+
+## Mire használtam AI-t
+A chatgpt-t használtam ezekhez:
+- A napi szo programrészhez
+- Hibák megértéséhez
+- words.txt-hez (beolvasás és maga szótár megtalálásához)
+
+Végül a words.txt szótárt megtaláltam githubon. Link: https://github.com/tabatkins/wordle-list.git
